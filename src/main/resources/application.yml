@@ -1,0 +1,1 @@
+spring.profiles.active: local # 로컬 프로필 실행
